@@ -1,8 +1,9 @@
 Jordan Landau
 
 learnyounode excercises:
-    Hello World
 
-    Baby Steps
+	Hello World
 
-    My First I/O!
+	Baby Steps
+
+	My First I/O!
